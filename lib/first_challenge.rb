@@ -5,6 +5,12 @@ def first_challenge
       matriarch: {},
       hero: {},
       hero_friends: []
-      },capulet:{}
-}
-end
+      },
+    capulet:{
+      patriarch: {},
+      matriarc: {},
+      heroine: {},
+      heroine_friends: []
+      }
+    }
+  end
